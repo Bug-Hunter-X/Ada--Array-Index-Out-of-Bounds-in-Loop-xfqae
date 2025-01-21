@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: accessing array elements outside of the defined bounds. The example code features a loop iterating beyond the array's size, potentially causing a runtime error.  A solution is also provided to fix the issue by checking the index boundaries within the loop.
